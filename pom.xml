@@ -11,7 +11,7 @@
 	<groupId>com.klef.jfsd.sdp</groupId>
 	<artifactId>StudentActivityPortal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>StudentActivityPortal</name>
 	<description>Student Activity Portal</description>
 	<url/>
